@@ -12,6 +12,10 @@ This project is designed for skin lesion classification using deep learning tech
 
 ## Dependencies
 Ensure you have the following Python libraries installed before running the notebook:
+## Dataset
+The dataset is expected to be in CSV format with image file paths. Ensure images are stored in the specified directories.
+Download the dataset from the following link:
+https://drive.google.com/file/d/1Ntd1TaSsax7VZCsfI7LbAgfPjvkmNAEU/view?usp=sharing 
 
 ```bash
 pip install pandas torch torchvision pillow
